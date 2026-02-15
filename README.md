@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! I'm Zah 👋
 
-<!--
-**Azizah-laili/Azizah-laili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! 🚀 
 
-Here are some ideas to get you started:
+I'm an IT enthusiast currently pivoting my career focus toward becoming an **Admin Developer**. I love the intersection of data, automation, and system management. My goal is to build efficient systems and make data easier to understand!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Up To
+- 🎓 Currently pursuing my Bachelor's degree in Information Systems to deepen my tech foundation.
+- 💻 Building practical automation scripts (I recently built a Python desktop app just to remind me to drink water! 💧).
+- 📈 Exploring the world of Web SEO and database management.
+
+### 🛠️ Tools & Tech Stack
+I'm constantly learning and expanding my toolkit. Here are the technologies I'm currently working with and mastering:
+- **Languages & Scripting:** Python, SQL, Bash Scripting
+- **Data & Analytics:** Excel, Power Query, Power BI, Looker Studio
+- **Web & CMS:** WordPress, SEO Optimization
+
+### 📫 Let's Connect!
+I'd love to connect with you! Whether it's about data, tech, or exciting opportunities, feel free to reach out:
+- **LinkedIn:** [nur-azizah-laili](https://www.linkedin.com/in/nur-azizah-laili/)
+- **Instagram:** [@zzah.nal](https://instagram.com/zzah.nal)
+
+---
+*Fun fact: When I'm away from the keyboard, I love unwinding by knitting to recharge my energy! 🧶*
