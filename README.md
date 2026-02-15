@@ -21,4 +21,6 @@ I'd love to connect with you! Whether it's about data, tech, or exciting opportu
 - **Instagram:** [@zzah.nal](https://instagram.com/zzah.nal)
 
 ---
-*Fun fact: When I'm away from the keyboard, I love unwinding by knitting to recharge my energy! 🧶*
+### ✨ Fun Facts & Side Quests
+- 🧶 To recharge my energy away from the screen, I love unwinding by knitting.
+- 🎮 I also enjoy making games using Unity! You can play and check out my game projects over at [nailaspace.itch.io](https://nailaspace.itch.io).
